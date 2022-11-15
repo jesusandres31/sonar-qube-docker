@@ -1,4 +1,4 @@
-# Run SonarQube in Docker
+# SonarQube in Docker
 
 ### login
 - usr: admin
