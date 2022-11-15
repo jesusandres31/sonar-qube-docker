@@ -14,9 +14,12 @@
 - run "sonar-scanner"
 
 ### "sonar-project.properties" example:
-`sonar.projectKey=yourproject
+```
+sonar.projectKey=yourproject
 sonar.projectName=yourproject
 sonar.projectVersion=0.1
 sonar.sources=src/
 sonar.user=admin
-sonar.password=root`
+sonar.password=root
+```
+
