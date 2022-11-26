@@ -1,7 +1,7 @@
 # usr: admin
-# pss: admin
+# pss: root
 
-# bugfix sonar not starting:
+# bugfix:
 # https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc
 
 # run:
@@ -15,6 +15,8 @@
 # sonar.projectName=yourproject
 # sonar.projectVersion=0.1
 # sonar.sources=src/
+# sonar.login=SONAR_TOKEN
+
 # sonar.user=admin
 # sonar.password=root
 
