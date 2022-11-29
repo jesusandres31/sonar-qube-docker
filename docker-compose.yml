@@ -1,22 +1,4 @@
-# bugfixes:
-# https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc
-# https://stackoverflow.com/questions/30667130/sonarqube-is-under-maintenance
-
-# run:
-# install "sonar-scanner" in localhost
-# add "sonar-scanner" to your path var
-# add "sonar-project.properties" file in root path of the project
-# run "sonar-scanner"
-
-# "sonar-project.properties" example:
-# sonar.projectKey=yourproject
-# sonar.projectName=yourproject
-# sonar.projectVersion=0.1
-# sonar.sources=src/
-# sonar.login=SONAR_TOKEN
-
-# sonar.user=admin
-# sonar.password=root
+# docker-compose up -d
 
 version: "3"
 
