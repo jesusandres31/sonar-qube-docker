@@ -4,7 +4,11 @@
 - usr: admin
 - pss: admin
 
-### bugfix sonar not starting:
+### bugfix
+#### sonar not starting:
+`https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc`
+
+#### sonar is under maintenance:
 `https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc`
 
 ### run:
