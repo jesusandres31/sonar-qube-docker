@@ -1,6 +1,6 @@
 # bugfixes:
 # https://stackoverflow.com/questions/51445846/elasticsearch-max-virtual-memory-areas-vm-max-map-count-65530-is-too-low-inc
-# https://www.googlecloudcommunity.com/gc/Infrastructure-Compute-Storage/Shortage-of-Compute-Engine-Resource-in-us-central-1/m-p/492518
+# https://stackoverflow.com/questions/30667130/sonarqube-is-under-maintenance
 
 # run:
 # install "sonar-scanner" in localhost
